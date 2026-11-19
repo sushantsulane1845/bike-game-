@@ -1,0 +1,6 @@
+{
+  "name": "Redrock MX",
+  "description": "Sunset desert canyon 3D motocross stunt racing website with a 3-stage campaign, live telemetry HUD, and interactive 3D upgrade garage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
